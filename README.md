@@ -1,2 +1,5 @@
-# random-fact-2026-10-07T06-22-08.842Z-354random-fact-2026-10-07T06-22-08.842Z-354
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+The deepest mine in the world is the East Rand mine, which goes to a depth of about 3,585 metres
+
+*Generated on 2026-10-07T06:22:13.660Z*
